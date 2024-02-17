@@ -56,7 +56,7 @@ function App() {
               I started learning programming <br /> during my graduation, where I learned basic Python.
               After my <br />graduation, I decided to start learning programming by studying <br /> at Trybe School, which is an online programming school. <br />
               I'm learning to be a full-stack developer. At the moment,  <br /> I already learned Linux, Git, HTML, CSS, JavaScript, br TypeScript, and React. <br />
-              You can check all the abilities I will have at the end by clicking the abilities button.
+              You can check all the abilities I will have at the end by clicking the abilities button!
             </p>
           </div>
           <div>
